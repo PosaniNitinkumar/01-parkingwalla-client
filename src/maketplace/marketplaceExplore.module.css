@@ -1,0 +1,26 @@
+.ExploreContainer {
+    width: 80%;
+    margin: 0 auto;
+  }
+  .ExploreContainer_card_map {
+    margin: 3rem 0rem;
+  }
+  .ExploreContainer_card {
+    width: 80%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 3rem;
+    margin-bottom: 5rem;
+  }
+  /* s */
+  .ExploreContainer_noNFT {
+    width: 80%;
+    height: 45vh;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
